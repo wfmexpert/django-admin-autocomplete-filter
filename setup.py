@@ -5,14 +5,14 @@ with open(os.path.join(os.path.dirname(__file__), 'README.md')) as readme:
     README = readme.read()
 
 setup(
-    name='django-admin-autocomplete-filter',
+    name='django-admin-autocomplete-filter-multi',
     version='0.6.1',
     packages=find_packages(),
     include_package_data=True,
     description='A simple Django app to render list filters in django admin using autocomplete widget',
     long_description=README,
     long_description_content_type='text/markdown',
-    url='https://github.com/farhan0581/django-admin-autocomplete-filter',
+    url='https://github.com/wfmexpert/django-admin-autocomplete-filter',
     author='Farhan Khan',
     author_email='farhan0581@gmail.com',
     install_requires=[

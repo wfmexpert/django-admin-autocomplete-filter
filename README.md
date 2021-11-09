@@ -1,5 +1,10 @@
 [![PyPI version](https://badge.fury.io/py/django-admin-autocomplete-filter.svg?kill_cache=1)](https://badge.fury.io/py/django-admin-autocomplete-filter)
 
+О форке
+================================
+Форк из пулл реквеста - https://github.com/farhan0581/django-admin-autocomplete-filter/pull/55
+Нужный функционал, которого нет в мастере - фильтрация по связанным полям, мультивыбор
+
 Django Admin Autocomplete Filter
 ================================
 A simple Django app to render list filters in django admin using autocomplete widget. This app is heavily inspired from [dal-admin-filters.](https://github.com/shamanu4/dal_admin_filters)
